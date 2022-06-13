@@ -1,0 +1,19 @@
+{
+  "name": "aws-sdk-lambda-examples",
+  "version": "1.0.0",
+  "description": "AWS SDK Lambda function examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcintir/aws-sdk-lambda-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gcintir/aws-sdk-lambda-examples/issues"
+  },
+  "homepage": "https://github.com/gcintir/aws-sdk-lambda-examples#readme"
+}
