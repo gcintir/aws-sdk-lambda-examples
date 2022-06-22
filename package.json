@@ -12,6 +12,11 @@
   },
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1153.0",
+    "dotenv": "^16.0.1",
+    "uuid": "^8.3.2"
+  },
   "bugs": {
     "url": "https://github.com/gcintir/aws-sdk-lambda-examples/issues"
   },
